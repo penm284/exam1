@@ -1,0 +1,53 @@
+## Section 1
+
+- variables
+#a variable is any word of your choosing that holds a value of meaning in your code.
+#you can use variables to help make your process easier and in some cases it may even be necessary to make your code run.
+#to define a variable you will need to use the = sign.
+#define a variable as the number zero, and then print the variable. to print use print("variable")
+
+- arrays
+#an array is a list of values or words. the way to make an array is similar to the way to make a variable.(they always need square brackets"[]")
+#to make an array you will need to use the = sign.
+#try making an array with your friends' names in it.
+
+- if/else
+#an if/ else statement is a way to make the computer follow a variety of different possibilities
+#essentially its a conditional statement so that if something isn't true the computer can follow a different course
+
+- for loops
+#a for loop is essentially a repeated line of code
+#you can ask the computer to cycle through things such as an array until it reachers whatever it is you want in the array
+#try making a for loop where you try to find a specific number in an array
+
+
+## Section 2
+
+- nesting
+  - if/else
+  - for loops
+#nesting is a loop, you can make if/else statements or for loops that run forever
+#we don't want a program to run forever so we can use this so that it looks for whatever you want and then stops
+
+- if/else
+#an if/ else statement is a way to make the computer follow a variety of different possibilities
+#essentially its a conditional statement so that if something isn't true the computer can follow a different course
+- for loops
+#a for loop is essentially a repeated line of code
+#you can ask the computer to cycle through things such as an array until it reachers whatever it is you want in the array
+#try making a for loop where you try to find a specific number in an array
+
+
+
+- methods
+# this last thing I will teach you is called a method or a function
+# methods can be used to condense a bunch of lines of code
+# its a block of code which will only run when you ask it to, if you need the code later on you can just use a few lines rather than re-type the whole thing
+
+
+
+assessment:
+
+1. Create an array with any numbers
+2. Create a function
+3. inside of the function create a for loop and an if/else loop where you try to find a specific number in the array
